@@ -1,0 +1,19 @@
+Merhaba Arkadaþlar , Bugün Sizlere Bedava .me Domaini Almayý Öðreticem ...
+
++ Ýlk önce githuba linkten kayýt oluyorsunuz
+
++ üye olduktan olduktan mail onayý yaptýktan sonra github öðrenci paketine üye olacaz
+
+- https://education.github.com/pack
+
++ Bu baðlantýya týklayýp GitHub Student Developer Pack üye oluyorsunuz ve burda size bir form gelecek bu formda öðrenci olmanýzý doðrulamayý isteyecek ben bilgileri doðru yazýp resim bölümün en sonuna teþekkür belgenizi atýyorsunuz ve 12 saat içinde onaylanýyor !
+
++ Githuba Öðrenci olarak kayýt yaptýktan sonra
+
+- https://nc.me/github/auth 
+
++ Bu baðlantýya týklayýp github la giriþ yapýyorsunuz .
+
++ Giriþ yaptýktan sonra gerisi kolay site sizi nc.me sitesine yonledirecek oraya alan adýnýzý seçin ve bilgilerini falan girip en sonda istediðiniz hosting e nameserverle yonlendirebilirsiniz ...
+
++ Dikkat etmeniz gereken her hasaba 1 domain veriyor

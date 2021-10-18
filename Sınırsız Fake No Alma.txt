@@ -1,0 +1,7 @@
+1) Siteye girelim => zendesk.com
+2) Free Trial butonuna basýp kayýt olalým.
+3) Kayýt olurken "Number of employees" kýsmýný 50-99 yapýn.
+4) Ardýndan maili doðrulayýn.
+5) Maili doðruladiktan sonra çýkan sayfada soldaki ayarlar yani settings kýsmýna giriyoruz.
+6) Soldaki "Channels" bölümünden *Talk* yazan kýsma giriyoruz.
+7) Bu kýsýmdan yeni numaranizi alabilirsiniz gelen smsler sizin hesabý açtýðýnýz maile yönlendirilmektedir.
