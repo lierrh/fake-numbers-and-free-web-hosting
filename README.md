@@ -1,2 +1,2 @@
 # FakeNumberAndWebHosting
-### Zip Olarak İndirip Dosyaları Okuyabilirsiniz ###
+### zip olarak indirip dosyaları okuyabilirsiniz ###
